@@ -1,4 +1,2 @@
 Git練習をしていきます
-ワークフローを学ぶ
-
-aaaaaaaa
+tasita
